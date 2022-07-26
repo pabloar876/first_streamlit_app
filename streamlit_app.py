@@ -1,3 +1,3 @@
 import streamlit
 
-sreamlit.title('Snowflake Test')
+streamlit.title('Snowflake Test')
